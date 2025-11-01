@@ -118,7 +118,8 @@ urlpatterns = [
 
 ## SERVER SIDE PROCESSING:
 
-Screenshot (31).png
+<img width="1920" height="1200" alt="screenshot (31) png" src="https://github.com/user-attachments/assets/b62446cd-f63a-4ade-a3e9-d689bb4adb66" />
+
 
 
 
