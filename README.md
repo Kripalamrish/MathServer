@@ -112,7 +112,8 @@ from mathapp import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('',views.powerlamp,name="powerlamp"),]
-    ```
+
+```
 
 
 ## SERVER SIDE PROCESSING:
